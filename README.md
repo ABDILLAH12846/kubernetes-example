@@ -1,4 +1,4 @@
-# Readme.md untuk Deployment dan Autoscaling DevOps
+# Cara untuk Deployment dan Autoscaling menggunakan Kubernetes
 
 **File ini menjelaskan cara menggunakan manifest Kubernetes yang disediakan untuk mendeploy dan meng-autoscaling aplikasi DevOps bernama "devops".**
 
